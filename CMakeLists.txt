@@ -5,5 +5,6 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(ACM_Regionals
 #        main.cpp
-        Regionals2017/AsiaYangon/A8220_ProperBinaryTree/A8220.cpp
+#        Regionals2017/AsiaYangon/A8220_ProperBinaryTree/A8220.cpp
+        Regionals2017/AsiaYangon/G8315_Stone/G8315.cpp
         )
